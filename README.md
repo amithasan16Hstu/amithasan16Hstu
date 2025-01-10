@@ -27,6 +27,7 @@
 ### 🌐 Connect with Me
 - 🔗 [GitHub Profile](https://github.com/amithasan16Hstu)
 - 📧 [Email Me](mailto:amithasan16hstu@gmail.com)
+
 ---
 ### 🛠️ Technical Skills
 
@@ -38,5 +39,4 @@
   <img src="https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
-
 
